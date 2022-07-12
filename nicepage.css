@@ -37544,6 +37544,7 @@ a.u-link.u-text-hover-grey-90:hover {
   font-family: "Josefin Sans";
   font-size: 1rem;
   text-transform: uppercase;
+  letter-spacing: normal;
 }
 
 .u-header .u-nav-3 {
@@ -37581,10 +37582,6 @@ a.u-link.u-text-hover-grey-90:hover {
   .u-header .u-menu-1 {
     width: auto;
     margin-top: -44px;
-  }
-
-  .u-header .u-nav-1 {
-    letter-spacing: normal;
   }
 
   .u-header .u-text-1 {
