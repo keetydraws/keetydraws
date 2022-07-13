@@ -37679,11 +37679,11 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-footer .u-social-icons-1 {
   min-height: 16px;
-  width: 161px;
-  min-width: 97px;
+  width: 204px;
+  min-width: 124px;
   transition-duration: 0.5s;
   height: 32px;
-  margin: 35px auto 0;
+  margin: 41px auto 0;
 }
 
 .u-footer .u-icon-1 {
@@ -37702,14 +37702,34 @@ a.u-link.u-text-hover-grey-90:hover {
   height: 100%;
 }
 
-.u-footer .u-text-1 {
-  font-family: "Josefin Sans";
-  margin: 19px auto 49px;
+.u-footer .u-icon-5 {
+  height: 100%;
 }
 
-
-
-
+.u-footer .u-text-1 {
+  font-family: "Josefin Sans";
+  margin: 14px auto 49px;
+}
+@media (max-width: 1199px) {
+  .u-footer .u-social-icons-1 {
+    width: 204px;
+  }
+}
+@media (max-width: 991px) {
+  .u-footer .u-sheet-1 {
+    min-height: 113px;
+  }
+}
+@media (max-width: 767px) {
+  .u-footer .u-sheet-1 {
+    min-height: 85px;
+  }
+}
+@media (max-width: 575px) {
+  .u-footer .u-sheet-1 {
+    min-height: 54px;
+  }
+}
 .u-footer .u-social-icons-1, .u-footer .u-social-icons-1:before, .u-footer .u-social-icons-1 > .u-container-layout:before {
     transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position
 }

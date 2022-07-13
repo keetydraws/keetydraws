@@ -3,7 +3,7 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 229px;
+  min-height: 186px;
 }
 
 .u-section-1 .u-text-1 {
@@ -19,23 +19,13 @@
   margin: 0;
 }
 
-.u-section-1 .u-btn-1 {
-  border-style: none;
-  font-size: 1.25rem;
-  letter-spacing: 1px;
-  align-self: center;
-  font-family: "Josefin Sans";
-  margin: 18px auto 0;
-  padding: 0;
-}
-
 .u-section-1 .u-social-icons-1 {
   min-height: 16px;
-  width: 160px;
-  min-width: 97px;
+  width: 204px;
+  min-width: 124px;
   transition-duration: 0.5s;
   height: 32px;
-  margin: 9px auto 24px;
+  margin: 6px auto 34px;
 }
 
 .u-section-1 .u-icon-1 {
@@ -54,14 +44,13 @@
   height: 100%;
 }
 
+.u-section-1 .u-icon-5 {
+  height: 100%;
+}
+
 @media (max-width: 1199px) {
   .u-section-1 .u-text-2 {
     width: auto;
-  }
-
-  .u-section-1 .u-social-icons-1 {
-    width: 205px;
-    min-width: 115px;
   }
 }
 
@@ -79,65 +68,41 @@
     margin-right: 20px;
     line-height: 1.6;
   }
-
-  .u-section-1 .u-btn-1 {
-    margin-top: 3px;
-  }
-
-  .u-section-1 .u-social-icons-1 {
-    height: 29px;
-    width: 148px;
-    min-width: 97px;
-    margin-top: 3px;
-    margin-bottom: 28px;
-  }
 }
 
 @media (max-width: 767px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 173px;
-  }
-
-  .u-section-1 .u-text-1 {
-    width: auto;
-    margin-left: 0;
-    margin-right: 0;
-  }
-
-  .u-section-1 .u-text-2 {
-    margin-left: 0;
-    margin-right: 0;
-  }
-
-  .u-section-1 .u-btn-1 {
-    margin-top: 7px;
-    margin-bottom: 34px;
-  }
-
-  .u-section-1 .u-social-icons-1 {
-    margin-top: 9px;
-    margin-bottom: 24px;
-  }
-}
-
-@media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
     min-height: 149px;
   }
 
   .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: 30px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 30px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 123px;
+  }
+
+  .u-section-1 .u-text-1 {
     font-size: 1.625rem;
-    margin-top: 31px;
+    margin-top: 25px;
   }
 
   .u-section-1 .u-text-2 {
     line-height: 1.4;
     font-size: 0.875rem;
-  }
-
-  .u-section-1 .u-btn-1 {
-    margin-top: 0;
-    margin-bottom: 21px;
+    margin-bottom: 32px;
   }
 }
 
