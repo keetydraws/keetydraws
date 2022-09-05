@@ -38315,18 +38315,18 @@ a.u-link.u-text-hover-grey-90:hover {
   letter-spacing: 6px;
   background-image: none;
   font-size: 2.25rem;
-  margin: -45px auto 0 94px;
+  margin: -45px auto 0 93px;
 }
 
 .u-header .u-btn-1 {
   background-image: none;
-  letter-spacing: 6px;
-  font-size: 2.125rem;
+  letter-spacing: 4px;
+  font-size: 1.5rem;
   padding: 0;
 }
 
 .u-header .u-menu-1 {
-  margin: -37px 0 0 auto;
+  margin: -37px 0 26px auto;
 }
 
 .u-header .u-nav-1 {
@@ -38340,17 +38340,6 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-header .u-nav-3 {
   font-size: 1.25rem;
 }
-
-.u-header .u-text-2 {
-  font-family: "Josefin Sans";
-  margin: -12px auto 12px 203px;
-}
-
-.u-header .u-btn-2 {
-  background-image: none;
-  font-size: 1rem;
-  padding: 0;
-}
 @media (max-width: 1199px) {
   .u-header .u-text-1 {
     margin-top: -45px;
@@ -38360,11 +38349,6 @@ a.u-link.u-text-hover-grey-90:hover {
     width: auto;
     margin-top: -37px;
     margin-right: 0;
-  }
-
-  .u-header .u-text-2 {
-    margin-top: -12px;
-    margin-left: 203px;
   }
 }
 @media (max-width: 991px) {
@@ -38385,16 +38369,7 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-menu-1 {
-    margin-top: -41px;
-    margin-right: auto;
-    margin-left: 13px;
-  }
-
-  .u-header .u-text-2 {
-    width: auto;
-    margin-top: -4px;
-    margin-bottom: 8px;
-    margin-left: 251px;
+    margin: -41px auto 23px 13px;
   }
 }
 @media (max-width: 767px) {
@@ -38413,11 +38388,8 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-header .u-menu-1 {
     margin-top: -36px;
+    margin-bottom: 18px;
     margin-left: 0;
-  }
-
-  .u-header .u-text-2 {
-    margin: -11px 180px 10px auto;
   }
 }
 @media (max-width: 575px) {
@@ -38440,24 +38412,11 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-header .u-btn-1 {
     letter-spacing: 2px;
-    font-size: 1.5rem;
   }
 
   .u-header .u-menu-1 {
     margin-top: -32px;
-  }
-
-  .u-header .u-text-2 {
-    margin-top: -9px;
-    margin-right: 94px;
-    margin-bottom: 9px;
-  }
-
-  .u-header .u-btn-2 {
-    margin-right: auto;
-    margin-left: auto;
-    display: block;
-    font-size: 0.875rem;
+    margin-bottom: 16px;
   }
 }
  .u-footer {
