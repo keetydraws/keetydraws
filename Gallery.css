@@ -378,7 +378,7 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 63182px;
+    min-height: 5591px;
   }
 
   .u-section-1 .u-text-2 {
@@ -386,6 +386,7 @@
   }
 
   .u-section-1 .u-gallery-1 {
+    margin-bottom: 30px;
     height: 5400px;
   }
 
