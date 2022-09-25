@@ -226,36 +226,82 @@
 }.u-section-5 .u-sheet-1 {
   min-height: 13px;
 } .u-section-6 {
-  background-image: url("images/SupportmeonPatreon.png");
+  background-image: url("images/banner2020.png");
   background-position: 50% 50%;
 }
 
 .u-section-6 .u-sheet-1 {
-  min-height: 479px;
+  min-height: 424px;
+}
+
+.u-section-6 .u-text-1 {
+  font-family: "Josefin Sans";
+  transition-duration: 0.5s;
+  margin: 123px auto 60px 36px;
 }
 
 @media (max-width: 1199px) {
   .u-section-6 .u-sheet-1 {
-    min-height: 395px;
+    min-height: 380px;
+  }
+
+  .u-section-6 .u-text-1 {
+    font-size: 4.5rem;
+    width: auto;
+    transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
+    margin-top: 106px;
+    margin-left: 62px;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-6 .u-sheet-1 {
-    min-height: 303px;
+    min-height: 277px;
+  }
+
+  .u-section-6 .u-text-1 {
+    font-size: 3rem;
+    margin-top: 82px;
+    margin-left: 55px;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-6 .u-sheet-1 {
-    min-height: 270px;
+    min-height: 217px;
+  }
+
+  .u-section-6 .u-text-1 {
+    font-size: 2.25rem;
+    margin-top: 74px;
+    margin-left: 38px;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-6 .u-sheet-1 {
-    min-height: 184px;
+    min-height: 149px;
   }
+
+  .u-section-6 .u-text-1 {
+    font-size: 1.5rem;
+    margin-top: 49px;
+    margin-left: 24px;
+  }
+}
+
+.u-section-6 .u-text-1,
+.u-section-6 .u-text-1:before,
+.u-section-6 .u-text-1 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-6 .u-container-layout:hover .u-text-1 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
+
+.u-container-layout.hover .u-section-6 .u-text-1 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
 }.u-section-7 .u-sheet-1 {
   min-height: 18px;
 }
