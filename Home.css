@@ -237,7 +237,14 @@
 .u-section-6 .u-text-1 {
   font-family: "Josefin Sans";
   transition-duration: 0.5s;
-  margin: 123px auto 60px 36px;
+  margin: 123px auto 0 36px;
+}
+
+.u-section-6 .u-icon-1 {
+  width: 89px;
+  height: 89px;
+  margin: 0 auto 60px 210px;
+  padding: 0;
 }
 
 @media (max-width: 1199px) {
@@ -249,7 +256,7 @@
     font-size: 4.5rem;
     width: auto;
     transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
-    margin-top: 106px;
+    margin-top: 60px;
     margin-left: 62px;
   }
 }
@@ -261,32 +268,48 @@
 
   .u-section-6 .u-text-1 {
     font-size: 3rem;
-    margin-top: 82px;
     margin-left: 55px;
+  }
+
+  .u-section-6 .u-icon-1 {
+    width: 64px;
+    height: 64px;
+    margin-left: 169px;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-6 .u-sheet-1 {
-    min-height: 217px;
+    min-height: 218px;
   }
 
   .u-section-6 .u-text-1 {
     font-size: 2.25rem;
-    margin-top: 74px;
     margin-left: 38px;
+  }
+
+  .u-section-6 .u-icon-1 {
+    width: 52px;
+    height: 52px;
+    margin-left: 121px;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-6 .u-sheet-1 {
-    min-height: 149px;
+    min-height: 153px;
   }
 
   .u-section-6 .u-text-1 {
     font-size: 1.5rem;
-    margin-top: 49px;
     margin-left: 24px;
+  }
+
+  .u-section-6 .u-icon-1 {
+    width: 34px;
+    height: 34px;
+    margin-bottom: 33px;
+    margin-left: 76px;
   }
 }
 
