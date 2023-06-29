@@ -41929,7 +41929,6 @@ a.u-link.u-text-hover-grey-90:hover {
   font-family: "Josefin Sans";
   font-size: 1rem;
   text-transform: uppercase;
-  letter-spacing: normal;
 }
 
 .u-header .u-nav-4 {
@@ -41943,6 +41942,10 @@ a.u-link.u-text-hover-grey-90:hover {
   .u-header .u-menu-1 {
     width: auto;
     margin-top: -38px;
+  }
+
+  .u-header .u-nav-1 {
+    letter-spacing: normal;
   }
 }
 @media (max-width: 991px) {
