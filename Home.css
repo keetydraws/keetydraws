@@ -125,7 +125,7 @@
 
 .u-section-2 .u-text-1 {
   font-family: "Josefin Sans";
-  font-size: 2.25rem;
+  font-size: 1.5rem;
   transition-duration: 0.5s;
   transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
   margin: 238px 0 59px auto;
@@ -169,7 +169,7 @@
   }
 
   .u-section-2 .u-text-1 {
-    font-size: 1.875rem;
+    font-size: 1.5rem;
     margin-top: 118px;
     margin-bottom: 33px;
   }
