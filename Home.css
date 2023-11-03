@@ -125,7 +125,7 @@
 
 .u-section-2 .u-text-1 {
   font-family: "Josefin Sans";
-  font-size: 4.5rem;
+  font-size: 2.25rem;
   transition-duration: 0.5s;
   transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
   margin: 238px 0 59px auto;
@@ -146,10 +146,10 @@
   }
 
   .u-section-2 .u-text-1 {
-    font-size: 3.75rem;
-    margin-top: 170px;
-    margin-right: 17px;
-    margin-bottom: 39px;
+    font-size: 3rem;
+    margin-top: 171px;
+    margin-right: 0;
+    margin-bottom: 52px;
   }
 }
 
@@ -159,7 +159,7 @@
   }
 
   .u-section-2 .u-text-1 {
-    font-size: 3rem;
+    font-size: 2.25rem;
     margin-top: 159px;
     margin-bottom: 41px;
   }
@@ -173,7 +173,6 @@
   .u-section-2 .u-text-1 {
     font-size: 1.875rem;
     margin-top: 118px;
-    margin-right: 0;
     margin-bottom: 33px;
   }
 }
