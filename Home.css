@@ -260,17 +260,17 @@
 }.u-section-5 .u-sheet-1 {
   min-height: 13px;
 } .u-section-6 {
-  background-image: url("images/commissionsummarybanner1.png");
+  background-image: url("images/commissionsummarybanner.jpg");
   background-position: 50% 50%;
 }
 
 .u-section-6 .u-sheet-1 {
-  min-height: 504px;
+  min-height: 469px;
 }
 
 @media (max-width: 991px) {
   .u-section-6 .u-sheet-1 {
-    min-height: 354px;
+    min-height: 341px;
   }
 }
 
@@ -282,7 +282,7 @@
 
 @media (max-width: 575px) {
   .u-section-6 .u-sheet-1 {
-    min-height: 167px;
+    min-height: 184px;
   }
 }.u-section-7 .u-sheet-1 {
   min-height: 18px;
